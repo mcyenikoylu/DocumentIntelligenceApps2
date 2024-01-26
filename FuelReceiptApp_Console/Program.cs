@@ -218,7 +218,7 @@ AzureKeyCredential credential = new AzureKeyCredential(apiKey);
 DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
 
 string modelId = "receipt-gas-tr-model-mcy";
-Uri fileUri = new Uri("https://www.spailor.com/wp-content/uploads/azureai/WhatsApp_Image_2024-01-02%20at%2022.32.22.jpeg");
+Uri fileUri = new Uri("https://www.spailor.com/wp-content/uploads/azureai/IMG_3924.jpg");
 
 AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, modelId, fileUri);
 AnalyzeResult result = operation.Value;
