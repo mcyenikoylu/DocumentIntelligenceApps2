@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FuelReceiptApp_Console
 build_property.ProjectDir = /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

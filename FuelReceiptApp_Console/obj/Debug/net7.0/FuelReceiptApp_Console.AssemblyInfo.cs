@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuelReceiptApp_Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199ba59837aea558b9cb67ef7ed44f3bc414abd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuelReceiptApp_Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuelReceiptApp_Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

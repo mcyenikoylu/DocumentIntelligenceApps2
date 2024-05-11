@@ -12,9 +12,10 @@
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.AssemblyInfoInputs.cache
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.AssemblyInfo.cs
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.csproj.CoreCompileInputs.cache
-/Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.csproj.CopyComplete
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.dll
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/refint/FuelReceiptApp_Console.dll
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.pdb
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.genruntimeconfig.cache
 /Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/ref/FuelReceiptApp_Console.dll
+/Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelReceiptApp_Console.sourcelink.json
+/Users/mcyenikoylu/Documents/Projects/DocumentIntelligenceApps/FuelReceiptApp_Console/obj/Debug/net7.0/FuelRece.11C92C9C.Up2Date
